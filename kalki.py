@@ -1,4 +1,4 @@
 a = 2
-b = 3
+f = 4
 c = a + b
-print(c)
+print(f)
